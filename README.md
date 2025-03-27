@@ -14,7 +14,7 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O aplicativo 
 ![Captura de Tela 1](imagens/jogo.png)
 
 ## 🎥 Demonstração
-![Demo](imagens/jokenpo.mp4)
+![Demo](imagens/jokenpo.gif)
 
 ## 📂 Como Executar
 1. Clone este repositório:
