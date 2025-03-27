@@ -10,12 +10,11 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O aplicativo 
 - Cores indicativas para vitória (azul), derrota (vermelho) e empate (amarelo).
 - Interface amigável e responsiva.
 
-## 🖥️ Capturas de Tela
-![Captura de Tela 1](images/captura1.png)
-![Captura de Tela 2](images/captura2.png)
+## 🖥️ Captura de Tela
+![Captura de Tela 1](imagens/jogo.png)
 
 ## 🎥 Demonstração
-![Demo](images/demo.gif)
+![Demo](imagens/jokenpo.mp4)
 
 ## 📂 Como Executar
 1. Clone este repositório:
