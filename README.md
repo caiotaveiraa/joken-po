@@ -21,15 +21,11 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O aplicativo 
    ```bash
    git clone https://github.com/seu-usuario/jokenpo-flutter.git
    ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd jokenpo-flutter
-   ```
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    flutter pub get
    ```
-4. Execute o projeto:
+3. Execute o projeto:
    ```bash
    flutter run
    ```
