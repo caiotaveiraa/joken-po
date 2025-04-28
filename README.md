@@ -34,10 +34,8 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O aplicativo 
    flutter run
    ```
 
-## 🚀 Tecnologias Utilizadas
-- Flutter
-- Dart
-
+## 🚀 Tecnologia Utilizada
+- Flutter (Dart)
 ---
 
 ## 👨‍🎓 Desenvolvido por
