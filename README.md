@@ -19,7 +19,7 @@ Este é um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O aplicativo 
 ## 📂 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jokenpo-flutter.git
+   git clone https://github.com/caiotaveiraa/joken-po.git
    ```
 2. Acesse a pasta do projeto:
     ```bash
